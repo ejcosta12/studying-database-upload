@@ -1,5 +1,5 @@
 <h3 align="center">
-  Importando arquivo CSV com banco de dados no Node.js
+  Importando arquivo CSV - PostgreSQL e Node.js
 </h3>
 
 <p align="center">
